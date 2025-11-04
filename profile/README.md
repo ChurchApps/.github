@@ -7,16 +7,14 @@
 
   - <img align="right" height="50" src="https://github.com/vassbo/freeshow/assets/17619496/ddcdb667-db87-4844-b102-c928ac15f074"> [FreeShow](https://github.com/ChurchApps/FreeShow) - FreeShow is a free and open-source presentation program that makes it easy to show text on a big screen. It supports stage display, remote control, media, and many other advanced features. It is open-sourced meaning anyone can contribute.
 
-  - <img align="right" width="150" src="https://raw.githubusercontent.com/ChurchApps/ChumsApp/main/public/images/logo.png"> [CHUMS](https://github.com/ChurchApps/ChumsApp) - CHUMS is completely free, open-source **CHU**rch **M**anagement **S**oftware that allows you to manage key data on church members and visitors. It offers comprehensive features including member and guest information tracking, attendance management with a self check-in app, group coordination, donation tracking with detailed reports, and custom form creation.
-
-  - <img align="right" width="150" src="https://raw.githubusercontent.com/ChurchApps/B1App/main/public/images/logo.png"> [B1 Church](https://github.com/ChurchApps/B1App) - B1 Church is a mobile app and website that helps congregations stay connected by integrating various church services and external resources into one customizable platform. It offers features such as online giving, self-check-in for attendance, live streaming of services, and an interactive member directory.
+  - <img align="right" width="150" src="https://raw.githubusercontent.com/ChurchApps/B1App/main/public/images/logo.png"> [B1 Church](https://github.com/ChurchApps/B1Admin) - is a free, open-source platform that brings together church management tools and congregation-facing engagement features into one seamless hub. Designed to help churches stay connected and organized, B1.church allows ministries to manage member and guest information, track attendance with self-check-in, organize groups, and handle donations with detailed reporting.  On the congregation side, it offers a modern mobile app and website experience with online giving, live streaming, an interactive member directory, and access to custom forms and resources—all customizable to fit each church’s needs.  With B1.church, your church can strengthen community, streamline administration, and bring all key ministry tools under one unified platform.
 
   - <img align="right" width="150" src="https://raw.githubusercontent.com/ChurchApps/LessonsApp/main/public/images/logo.png"> [Lessons.church](https://github.com/ChurchApps/LessonsApp) - Lessons.church** is a website for hosting free video based lessons for churches.  The lessons can be scheduled in advance for classrooms and customized.  The companion TV app runs on any Android TV device and will pre-fetch each weeks lesson in the classroom so they're ready to be displayed on Sunday without needing an Internet connection.
 
 ## Get Involved
 
 ### 🤝 Help Support Us
-The only reason this program is free is because of the generous support from users. If you want to support us to keep this free, please head over to [ChurchApps](https://churchapps/partner) or [sponsor us on GitHub](https://github.com/sponsors/ChurchApps/). Thank you so much!
+The only reason this program is free is because of the generous support from users. If you want to support us to keep this free, please head over to [ChurchApps](https://churchapps.org/partner) or [sponsor us on GitHub](https://github.com/sponsors/ChurchApps/). Thank you so much!
 
 ### 🏘️ Join the Community
 We have multiple great community for end-users on Facebook.  It's a good way to ask questions, get tips and follow new updates.  Come join us!

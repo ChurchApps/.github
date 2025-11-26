@@ -1,32 +1,103 @@
-<img align="right" width="150" src="https://github.com/ChurchApps/.github/assets/1447203/732ed357-b56d-48f8-a069-580cfcb36b4f">
+<div align="center">
+  <img src="https://github.com/ChurchApps/.github/assets/1447203/732ed357-b56d-48f8-a069-580cfcb36b4f" width="120" alt="ChurchApps Logo">
 
-# ChurchApps
-> ChurchApps provides free, open-source technology solutions for churches, helping them manage operations, engage congregations, and access educational resources without the expense. Our offerings include church management software, a mobile app for member engagement, presentation software, and curriculum for children's ministry, all funded by donations and designed to support the Church's mission.
+  # ChurchApps
 
-## Key Projects
+  **Free, open-source technology solutions for churches**
 
-  - <img align="right" height="50" src="https://github.com/vassbo/freeshow/assets/17619496/ddcdb667-db87-4844-b102-c928ac15f074"> [FreeShow](https://github.com/ChurchApps/FreeShow) - FreeShow is a free and open-source presentation program that makes it easy to show text on a big screen. It supports stage display, remote control, media, and many other advanced features. It is open-sourced meaning anyone can contribute.
+  Helping churches manage operations, engage congregations, and access teaching resources—without the expense.
 
-  - <img align="right" width="150" src="https://raw.githubusercontent.com/ChurchApps/B1App/main/public/images/logo.png"> [B1 Church](https://github.com/ChurchApps/B1Admin) - is a free, open-source platform that brings together church management tools and congregation-facing engagement features into one seamless hub. Designed to help churches stay connected and organized, B1.church allows ministries to manage member and guest information, track attendance with self-check-in, organize groups, and handle donations with detailed reporting.  On the congregation side, it offers a modern mobile app and website experience with online giving, live streaming, an interactive member directory, and access to custom forms and resources—all customizable to fit each church’s needs.  With B1.church, your church can strengthen community, streamline administration, and bring all key ministry tools under one unified platform.
+  ---
 
-  - <img align="right" width="150" src="https://raw.githubusercontent.com/ChurchApps/LessonsApp/main/public/images/logo.png"> [Lessons.church](https://github.com/ChurchApps/LessonsApp) - Lessons.church** is a website for hosting free video based lessons for churches.  The lessons can be scheduled in advance for classrooms and customized.  The companion TV app runs on any Android TV device and will pre-fetch each weeks lesson in the classroom so they're ready to be displayed on Sunday without needing an Internet connection.
+  [![Sponsor Us](https://img.shields.io/badge/Sponsor_Us-ea4aaa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/ChurchApps/)
+  [![Contribute Code](https://img.shields.io/badge/Contribute_Code-blue?style=for-the-badge&logo=github)](https://churchapps.org/dev)
+
+  **Report an Issue:**
+  [![FreeShow](https://img.shields.io/badge/FreeShow-red?style=flat-square&logo=github)](https://github.com/ChurchApps/FreeShow/issues)
+  [![B1.church & Lessons.church](https://img.shields.io/badge/B1.church_or_Lessons.church-red?style=flat-square&logo=github)](https://github.com/ChurchApps/ChurchAppsSupport/issues)
+
+</div>
+
+---
+
+## Quick Links
+
+| Need Help? | Want to Support? | Want to Contribute? |
+|:---:|:---:|:---:|
+| [Report a Bug or Feature Request](https://github.com/ChurchApps/ChurchAppsSupport/issues) | [Sponsor on GitHub](https://github.com/sponsors/ChurchApps/) | [Development Guide](https://churchapps.org/dev) |
+| | | [Join our Slack](https://join.slack.com/t/livechurchsolutions/shared_invite/zt-i88etpo5-ZZhYsQwQLVclW12DKtVflg) |
+
+---
+
+## About Us
+
+Every year, churches spend hundreds of millions of dollars on software needed to run a church effectively. We believe by working together the Church can provide this software for free, and free up donor funds to more directly support ministry efforts.
+
+ChurchApps provides **free**, **open-source** technology solutions for churches, helping them manage operations, engage congregations, and access educational resources without the expense. Our offerings include church management software, presentation software, and curriculum — all funded by donations and designed to support the Church's mission.
+
+---
+
+## Our Projects
+
+<table>
+  <tr>
+    <td width="150" align="center">
+      <img src="https://github.com/vassbo/freeshow/assets/17619496/ddcdb667-db87-4844-b102-c928ac15f074" height="60" alt="FreeShow Logo"><br>
+      <strong><a href="https://github.com/ChurchApps/FreeShow">FreeShow</a></strong>
+    </td>
+    <td>
+      A free, open-source presentation program for displaying text on screen. Features include stage display, remote control, media support, and more.
+    </td>
+  </tr>
+  <tr>
+    <td width="150" align="center">
+      <img src="https://raw.githubusercontent.com/ChurchApps/B1App/main/public/images/logo.png" width="120" alt="B1 Church Logo"><br>
+      <strong><a href="https://github.com/ChurchApps/B1Admin">B1 Church</a></strong>
+    </td>
+    <td>
+      A unified platform combining church management tools with congregation engagement features—member management, attendance tracking, online giving, live streaming, and a mobile app experience.
+    </td>
+  </tr>
+  <tr>
+    <td width="150" align="center">
+      <img src="https://raw.githubusercontent.com/ChurchApps/LessonsApp/main/public/images/logo.png" width="120" alt="Lessons.church Logo"><br>
+      <strong><a href="https://github.com/ChurchApps/LessonsApp">Lessons.church</a></strong>
+    </td>
+    <td>
+      Free video-based lessons for churches with scheduling, customization, and a companion Android TV app that pre-fetches lessons for offline use.
+    </td>
+  </tr>
+</table>
+
+---
 
 ## Get Involved
 
-### 🤝 Help Support Us
-The only reason this program is free is because of the generous support from users. If you want to support us to keep this free, please head over to [ChurchApps](https://churchapps.org/partner) or [sponsor us on GitHub](https://github.com/sponsors/ChurchApps/). Thank you so much!
+### Join Our Community
 
-### 🏘️ Join the Community
-We have multiple great community for end-users on Facebook.  It's a good way to ask questions, get tips and follow new updates.  Come join us!
-- [FreeShow](https://www.facebook.com/groups/freeshowapp)
-- [Chums and B1](https://www.facebook.com/churchapps.org)
-- [Lessons.church](https://www.facebook.com/groups/276757487737882)
+Connect with other users, ask questions, get tips, and stay updated:
 
-### ⚠️ Report an Issue
-If you discover an issue or have a feature request, simply submit it to our [issues log](https://github.com/ChurchApps/ChurchAppsSupport/issues).  Don't be shy, that's how the program gets better.
+| Platform | Community |
+|:---|:---|
+| Facebook | [FreeShow Community](https://www.facebook.com/groups/freeshowapp) |
+| Facebook | [B1 Church Community](https://www.facebook.com/churchapps.org) |
+| Facebook | [Lessons.church Community](https://www.facebook.com/groups/276757487737882) |
+| Slack | [Developer & Contributor Chat](https://join.slack.com/t/livechurchsolutions/shared_invite/zt-i88etpo5-ZZhYsQwQLVclW12DKtVflg) |
 
-### 💬 Join us on Slack
-If you would like to get involved contributing in any way, head over to our [Slack Channel](https://join.slack.com/t/livechurchsolutions/shared_invite/zt-i88etpo5-ZZhYsQwQLVclW12DKtVflg) and introduce yourself.  We'd love to hear from you.
+### Contribute to the Code
 
-### 🏗️ Start Coding
-If you'd like to set up the project locally, see our [development guide](https://churchapps.org/dev).
+We welcome contributions from developers of all skill levels!
+
+1. **Get Started** — Check out our [Development Guide](https://churchapps.org/dev) to set up your local environment
+2. **Find an Issue** — Browse our [Issues](https://github.com/ChurchApps/ChurchAppsSupport/issues) for something to work on
+3. **Connect with Us** — Join [Slack](https://join.slack.com/t/livechurchsolutions/shared_invite/zt-i88etpo5-ZZhYsQwQLVclW12DKtVflg) to introduce yourself and get guidance
+
+---
+
+<div align="center">
+
+  **ChurchApps is free because of generous supporters like you.**
+
+  [![Sponsor Us on GitHub](https://img.shields.io/badge/Sponsor_Us_on_GitHub-ea4aaa?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/sponsors/ChurchApps/)
+
+</div>

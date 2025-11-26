@@ -7,25 +7,19 @@
 
   Helping churches manage operations, engage congregations, and access teaching resources—without the expense.
 
+  ![GitHub Org Stars](https://img.shields.io/github/stars/ChurchApps?style=flat-square&label=Total%20Stars&color=yellow)
+
   ---
 
-  [![Sponsor Us](https://img.shields.io/badge/Sponsor_Us-ea4aaa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/ChurchApps/)
+  [![Sponsor Us](https://img.shields.io/badge/Sponsor_Us-ea4aaa?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/sponsors/ChurchApps/)
   [![Contribute Code](https://img.shields.io/badge/Contribute_Code-blue?style=for-the-badge&logo=github)](https://churchapps.org/dev)
+  [![Join Slack](https://img.shields.io/badge/Join_Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/livechurchsolutions/shared_invite/zt-i88etpo5-ZZhYsQwQLVclW12DKtVflg)
 
   **Report an Issue:**
   [![FreeShow](https://img.shields.io/badge/FreeShow-red?style=flat-square&logo=github)](https://github.com/ChurchApps/FreeShow/issues)
   [![B1.church & Lessons.church](https://img.shields.io/badge/B1.church_or_Lessons.church-red?style=flat-square&logo=github)](https://github.com/ChurchApps/ChurchAppsSupport/issues)
 
 </div>
-
----
-
-## Quick Links
-
-| Need Help? | Want to Support? | Want to Contribute? |
-|:---:|:---:|:---:|
-| [Report a Bug or Feature Request](https://github.com/ChurchApps/ChurchAppsSupport/issues) | [Sponsor on GitHub](https://github.com/sponsors/ChurchApps/) | [Development Guide](https://churchapps.org/dev) |
-| | | [Join our Slack](https://join.slack.com/t/livechurchsolutions/shared_invite/zt-i88etpo5-ZZhYsQwQLVclW12DKtVflg) |
 
 ---
 
@@ -71,26 +65,22 @@ ChurchApps provides **free**, **open-source** technology solutions for churches,
 
 ---
 
-## Get Involved
+## Tech Stack
 
-### Join Our Community
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-Connect with other users, ask questions, get tips, and stay updated:
+---
 
-| Platform | Community |
-|:---|:---|
-| Facebook | [FreeShow Community](https://www.facebook.com/groups/freeshowapp) |
-| Facebook | [B1 Church Community](https://www.facebook.com/churchapps.org) |
-| Facebook | [Lessons.church Community](https://www.facebook.com/groups/276757487737882) |
-| Slack | [Developer & Contributor Chat](https://join.slack.com/t/livechurchsolutions/shared_invite/zt-i88etpo5-ZZhYsQwQLVclW12DKtVflg) |
+## Community
 
-### Contribute to the Code
-
-We welcome contributions from developers of all skill levels!
-
-1. **Get Started** — Check out our [Development Guide](https://churchapps.org/dev) to set up your local environment
-2. **Find an Issue** — Browse our [Issues](https://github.com/ChurchApps/ChurchAppsSupport/issues) for something to work on
-3. **Connect with Us** — Join [Slack](https://join.slack.com/t/livechurchsolutions/shared_invite/zt-i88etpo5-ZZhYsQwQLVclW12DKtVflg) to introduce yourself and get guidance
+Connect with other users on Facebook:
+[FreeShow](https://www.facebook.com/groups/freeshowapp) · [B1 Church](https://www.facebook.com/churchapps.org) · [Lessons.church](https://www.facebook.com/groups/276757487737882)
 
 ---
 

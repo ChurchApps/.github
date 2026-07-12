@@ -26,41 +26,41 @@ Everything here is **free**, **open-source**, and **self-hostable** — no per-s
 
 <table>
   <tr>
-    <td width="140" align="center">
-      <img src="https://github.com/vassbo/freeshow/assets/17619496/ddcdb667-db87-4844-b102-c928ac15f074" height="52" alt="FreeShow"><br>
-      <strong><a href="https://github.com/ChurchApps/FreeShow">FreeShow</a></strong><br>
+    <td width="110" align="center" valign="middle">
+      <a href="https://github.com/ChurchApps/FreeShow"><img width="72" alt="FreeShow logo" src="https://raw.githubusercontent.com/ChurchApps/FreeShow/main/public/icon.png"></a>
+    </td>
+    <td valign="middle">
+      <h3><a href="https://github.com/ChurchApps/FreeShow">FreeShow</a> — a free, open-source alternative to ProPresenter &amp; EasyWorship</h3>
+      Worship presentation software for lyrics, media, and stage display. Cross-platform (Windows / macOS / Linux) with remote control and multi-screen output.<br>
       <a href="https://github.com/ChurchApps/FreeShow/stargazers"><img src="https://img.shields.io/github/stars/ChurchApps/FreeShow?style=social" alt="FreeShow stars"></a>
-    </td>
-    <td>
-      Worship presentation software for lyrics, media, and stage display — a free, open-source alternative to <strong>ProPresenter</strong> and <strong>EasyWorship</strong>. Cross-platform (Windows / Mac / Linux) with remote control and multi-output.<br>
-      <sub>🔗 <a href="https://freeshow.app">freeshow.app</a> · ⬇️ <a href="https://freeshow.app">Download</a> · 🐛 <a href="https://github.com/ChurchApps/FreeShow/issues">Issues</a></sub>
+      &nbsp; <a href="https://freeshow.app">Website</a> · <a href="https://freeshow.app">Download</a> · <a href="https://github.com/ChurchApps/FreeShow/issues">Report an issue</a>
     </td>
   </tr>
   <tr>
-    <td width="140" align="center">
-      <img src="https://raw.githubusercontent.com/ChurchApps/B1App/main/public/images/logo.png" width="110" alt="B1 Church"><br>
-      <strong><a href="https://github.com/ChurchApps/B1Admin">B1 Church</a></strong><br>
-      <a href="https://github.com/ChurchApps/B1Admin/stargazers"><img src="https://img.shields.io/github/stars/ChurchApps/B1Admin?style=social" alt="B1Admin stars"></a>
+    <td width="110" align="center" valign="middle">
+      <a href="https://github.com/ChurchApps/B1Admin"><img width="88" alt="B1 Church logo" src="https://raw.githubusercontent.com/ChurchApps/B1App/main/public/images/logo.png"></a>
     </td>
-    <td>
-      A complete church platform — member management, groups, attendance, online giving, self check-in, plus a website builder and member app — a free, self-hostable alternative to <strong>Planning Center</strong>, <strong>Breeze</strong>, and <strong>Subsplash</strong>.<br>
-      <sub>🔗 <a href="https://b1.church">b1.church</a> · ▶️ <a href="https://demo.b1.church">Live Demo</a> · 🐛 <a href="https://github.com/ChurchApps/ChurchAppsSupport/issues">Issues</a></sub>
+    <td valign="middle">
+      <h3><a href="https://github.com/ChurchApps/B1Admin">B1 Church</a> — a free, self-hostable alternative to Planning Center, Breeze &amp; Subsplash</h3>
+      A complete church platform: member management, groups, attendance, online giving, self check-in, a website builder, and a member app.<br>
+      <a href="https://github.com/ChurchApps/B1Admin/stargazers"><img src="https://img.shields.io/github/stars/ChurchApps/B1Admin?style=social" alt="B1 Church stars"></a>
+      &nbsp; <a href="https://b1.church">Website</a> · <a href="https://demo.b1.church">Live Demo</a> · <a href="https://github.com/ChurchApps/ChurchAppsSupport/issues">Report an issue</a>
     </td>
   </tr>
   <tr>
-    <td width="140" align="center">
-      <img src="https://raw.githubusercontent.com/ChurchApps/LessonsApp/main/public/images/logo.png" width="110" alt="Lessons.church"><br>
-      <strong><a href="https://github.com/ChurchApps/LessonsApp">Lessons.church</a></strong><br>
-      <a href="https://github.com/ChurchApps/LessonsApp/stargazers"><img src="https://img.shields.io/github/stars/ChurchApps/LessonsApp?style=social" alt="Lessons stars"></a>
+    <td width="110" align="center" valign="middle">
+      <a href="https://github.com/ChurchApps/LessonsApp"><img width="88" alt="Lessons.church logo" src="https://raw.githubusercontent.com/ChurchApps/LessonsApp/main/public/images/logo.png"></a>
     </td>
-    <td>
-      Free, ready-to-teach video curriculum for children's and youth ministry — a no-cost alternative to paid Sunday-school subscriptions. Schedule lessons, customize them, and play them offline via a companion Android TV app.<br>
-      <sub>🔗 <a href="https://lessons.church">lessons.church</a> · 🐛 <a href="https://github.com/ChurchApps/ChurchAppsSupport/issues">Issues</a></sub>
+    <td valign="middle">
+      <h3><a href="https://github.com/ChurchApps/LessonsApp">Lessons.church</a> — free video curriculum, an alternative to paid Sunday-school subscriptions</h3>
+      Ready-to-teach video lessons for children's and youth ministry. Schedule and customize lessons, and play them offline with a companion Android TV app.<br>
+      <a href="https://github.com/ChurchApps/LessonsApp/stargazers"><img src="https://img.shields.io/github/stars/ChurchApps/LessonsApp?style=social" alt="Lessons.church stars"></a>
+      &nbsp; <a href="https://lessons.church">Website</a> · <a href="https://github.com/ChurchApps/ChurchAppsSupport/issues">Report an issue</a>
     </td>
   </tr>
 </table>
 
-<div align="center"><sub>⭐ If one of these serves your church, a star helps other churches find it.</sub></div>
+<sub>⭐ If one of these serves your church, a star helps other churches find it.</sub>
 
 ---
 

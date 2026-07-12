@@ -8,7 +8,7 @@
   [![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ChurchApps/)
   [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](https://join.slack.com/t/livechurchsolutions/shared_invite/zt-i88etpo5-ZZhYsQwQLVclW12DKtVflg)
 
-  [Website](https://churchapps.org) · [Contribute](https://churchapps.org/dev) · [Donate](https://churchapps.org/partner)
+  [Website](https://churchapps.org) · [Report an Issue](#report-an-issue) · [Contribute](https://churchapps.org/dev) · [Donate](https://churchapps.org/partner)
 
 </div>
 
@@ -61,6 +61,20 @@ Everything here is **free**, **open-source**, and **self-hostable** — no per-s
 </table>
 
 <sub>⭐ If one of these serves your church, a star helps other churches find it.</sub>
+
+---
+
+## Report an Issue
+
+Found a bug or have a feature request? Don't be shy — that's how the software gets better.
+
+<div align="center">
+
+  [![Report a FreeShow Issue](https://img.shields.io/badge/FreeShow_Issue-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChurchApps/FreeShow/issues/new/choose)
+  [![Report a B1 Church Issue](https://img.shields.io/badge/B1_Church_Issue-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChurchApps/ChurchAppsSupport/issues/new)
+  [![Report a Lessons.church Issue](https://img.shields.io/badge/Lessons.church_Issue-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChurchApps/ChurchAppsSupport/issues/new)
+
+</div>
 
 ---
 

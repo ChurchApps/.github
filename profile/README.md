@@ -1,33 +1,24 @@
 <div align="center">
-  <img src="https://github.com/ChurchApps/.github/assets/1447203/732ed357-b56d-48f8-a069-580cfcb36b4f" width="120" alt="ChurchApps Logo">
 
-  # ChurchApps
+  <img width="100%" alt="ChurchApps — free, open-source software for the Church" src="https://raw.githubusercontent.com/ChurchApps/.github/main/profile/hero.svg">
 
-  **Free, open-source technology solutions for churches**
+  ### Presentation, church management, and curriculum tools — professionally built, given away, funded by donations instead of subscriptions.
 
-  Helping churches manage operations, engage congregations, and access teaching resources—without the expense.
+  [![Total Stars](https://img.shields.io/github/stars/ChurchApps?style=flat-square&label=Total%20Stars&color=f5a623)](https://github.com/ChurchApps)
+  [![Sponsor](https://img.shields.io/badge/Sponsor-ea4aaa?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ChurchApps/)
+  [![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](https://join.slack.com/t/livechurchsolutions/shared_invite/zt-i88etpo5-ZZhYsQwQLVclW12DKtVflg)
 
-  ![GitHub Org Stars](https://img.shields.io/github/stars/ChurchApps?style=flat-square&label=Total%20Stars&color=yellow)
-
-  ---
-
-  [![Sponsor Us](https://img.shields.io/badge/Sponsor_Us-ea4aaa?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/sponsors/ChurchApps/)
-  [![Contribute Code](https://img.shields.io/badge/Contribute_Code-blue?style=for-the-badge&logo=github)](https://churchapps.org/dev)
-  [![Join Slack](https://img.shields.io/badge/Join_Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/livechurchsolutions/shared_invite/zt-i88etpo5-ZZhYsQwQLVclW12DKtVflg)
-
-  **Report an Issue:**
-  [![FreeShow](https://img.shields.io/badge/FreeShow-red?style=flat-square&logo=github)](https://github.com/ChurchApps/FreeShow/issues)
-  [![B1.church & Lessons.church](https://img.shields.io/badge/B1.church_or_Lessons.church-red?style=flat-square&logo=github)](https://github.com/ChurchApps/ChurchAppsSupport/issues)
+  [Website](https://churchapps.org) · [Contribute](https://churchapps.org/dev) · [Donate](https://churchapps.org/partner)
 
 </div>
 
 ---
 
-## About Us
+## Why we exist
 
-Every year, churches spend hundreds of millions of dollars on software needed to run a church effectively. We believe by working together the Church can provide this software for free, and free up donor funds to more directly support ministry efforts.
+Every year churches spend hundreds of millions of dollars on software to run their ministries. We believe the Church can build that software together, give it away, and free up donor money for ministry instead of subscriptions.
 
-ChurchApps provides **free**, **open-source** technology solutions for churches, helping them manage operations, engage congregations, and access educational resources without the expense. Our offerings include church management software, presentation software, and curriculum — all funded by donations and designed to support the Church's mission.
+Everything here is **free**, **open-source**, and **self-hostable** — no per-seat pricing, no locked features, no "contact sales."
 
 ---
 
@@ -35,37 +26,45 @@ ChurchApps provides **free**, **open-source** technology solutions for churches,
 
 <table>
   <tr>
-    <td width="150" align="center">
-      <img src="https://github.com/vassbo/freeshow/assets/17619496/ddcdb667-db87-4844-b102-c928ac15f074" height="60" alt="FreeShow Logo"><br>
-      <strong><a href="https://github.com/ChurchApps/FreeShow">FreeShow</a></strong>
+    <td width="140" align="center">
+      <img src="https://github.com/vassbo/freeshow/assets/17619496/ddcdb667-db87-4844-b102-c928ac15f074" height="52" alt="FreeShow"><br>
+      <strong><a href="https://github.com/ChurchApps/FreeShow">FreeShow</a></strong><br>
+      <a href="https://github.com/ChurchApps/FreeShow/stargazers"><img src="https://img.shields.io/github/stars/ChurchApps/FreeShow?style=social" alt="FreeShow stars"></a>
     </td>
     <td>
-      A free, open-source presentation program for displaying text on screen. Features include stage display, remote control, media support, and more.
+      Worship presentation software for lyrics, media, and stage display — a free, open-source alternative to <strong>ProPresenter</strong> and <strong>EasyWorship</strong>. Cross-platform (Windows / Mac / Linux) with remote control and multi-output.<br>
+      <sub>🔗 <a href="https://freeshow.app">freeshow.app</a> · ⬇️ <a href="https://freeshow.app">Download</a> · 🐛 <a href="https://github.com/ChurchApps/FreeShow/issues">Issues</a></sub>
     </td>
   </tr>
   <tr>
-    <td width="150" align="center">
-      <img src="https://raw.githubusercontent.com/ChurchApps/B1App/main/public/images/logo.png" width="120" alt="B1 Church Logo"><br>
-      <strong><a href="https://github.com/ChurchApps/B1Admin">B1 Church</a></strong>
+    <td width="140" align="center">
+      <img src="https://raw.githubusercontent.com/ChurchApps/B1App/main/public/images/logo.png" width="110" alt="B1 Church"><br>
+      <strong><a href="https://github.com/ChurchApps/B1Admin">B1 Church</a></strong><br>
+      <a href="https://github.com/ChurchApps/B1Admin/stargazers"><img src="https://img.shields.io/github/stars/ChurchApps/B1Admin?style=social" alt="B1Admin stars"></a>
     </td>
     <td>
-      A unified platform combining church management tools with congregation engagement features—member management, attendance tracking, online giving, live streaming, and a mobile app experience.
+      A complete church platform — member management, groups, attendance, online giving, self check-in, plus a website builder and member app — a free, self-hostable alternative to <strong>Planning Center</strong>, <strong>Breeze</strong>, and <strong>Subsplash</strong>.<br>
+      <sub>🔗 <a href="https://b1.church">b1.church</a> · ▶️ <a href="https://demo.b1.church">Live Demo</a> · 🐛 <a href="https://github.com/ChurchApps/ChurchAppsSupport/issues">Issues</a></sub>
     </td>
   </tr>
   <tr>
-    <td width="150" align="center">
-      <img src="https://raw.githubusercontent.com/ChurchApps/LessonsApp/main/public/images/logo.png" width="120" alt="Lessons.church Logo"><br>
-      <strong><a href="https://github.com/ChurchApps/LessonsApp">Lessons.church</a></strong>
+    <td width="140" align="center">
+      <img src="https://raw.githubusercontent.com/ChurchApps/LessonsApp/main/public/images/logo.png" width="110" alt="Lessons.church"><br>
+      <strong><a href="https://github.com/ChurchApps/LessonsApp">Lessons.church</a></strong><br>
+      <a href="https://github.com/ChurchApps/LessonsApp/stargazers"><img src="https://img.shields.io/github/stars/ChurchApps/LessonsApp?style=social" alt="Lessons stars"></a>
     </td>
     <td>
-      Free video-based lessons for churches with scheduling, customization, and a companion Android TV app that pre-fetches lessons for offline use.
+      Free, ready-to-teach video curriculum for children's and youth ministry — a no-cost alternative to paid Sunday-school subscriptions. Schedule lessons, customize them, and play them offline via a companion Android TV app.<br>
+      <sub>🔗 <a href="https://lessons.church">lessons.church</a> · 🐛 <a href="https://github.com/ChurchApps/ChurchAppsSupport/issues">Issues</a></sub>
     </td>
   </tr>
 </table>
 
+<div align="center"><sub>⭐ If one of these serves your church, a star helps other churches find it.</sub></div>
+
 ---
 
-## Tech Stack
+## Built With
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -73,21 +72,23 @@ ChurchApps provides **free**, **open-source** technology solutions for churches,
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+New contributors welcome — start with the [developer guide](https://churchapps.org/dev) or say hi in [Slack](https://join.slack.com/t/livechurchsolutions/shared_invite/zt-i88etpo5-ZZhYsQwQLVclW12DKtVflg).
 
 ---
 
 ## Community
 
-Connect with other users on Facebook:
+Ask questions, share tips, and follow updates on Facebook:
 [FreeShow](https://www.facebook.com/groups/freeshowapp) · [B1 Church](https://www.facebook.com/churchapps.org) · [Lessons.church](https://www.facebook.com/groups/276757487737882)
 
 ---
 
 <div align="center">
 
-  **ChurchApps is free because of generous supporters like you.**
+  **ChurchApps stays free because of generous supporters like you.**
 
-  [![Sponsor Us on GitHub](https://img.shields.io/badge/Sponsor_Us_on_GitHub-ea4aaa?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/sponsors/ChurchApps/)
+  [![Sponsor Us on GitHub](https://img.shields.io/badge/Sponsor_ChurchApps-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/ChurchApps/)
 
 </div>

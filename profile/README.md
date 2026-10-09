@@ -58,6 +58,39 @@ Everything here is **free**, **open-source**, and **self-hostable** — no per-s
       &nbsp; <a href="https://lessons.church">Website</a> · <a href="https://github.com/ChurchApps/ChurchAppsSupport/issues">Report an issue</a>
     </td>
   </tr>
+  <tr>
+    <td width="110" align="center" valign="middle">
+      <a href="https://github.com/ChurchApps/FreePlay"><img width="72" alt="FreePlay logo" src="https://raw.githubusercontent.com/ChurchApps/FreePlay/main/assets/images/icon.png"></a>
+    </td>
+    <td valign="middle">
+      <h3><a href="https://github.com/ChurchApps/FreePlay">FreePlay</a> — lesson presentation app for classroom TVs</h3>
+      A companion app for Lessons.church that runs on Android TV devices to pre-fetch and play weekly Sunday-school lessons directly in the classroom.<br>
+      <a href="https://github.com/ChurchApps/FreePlay/stargazers"><img src="https://img.shields.io/github/stars/ChurchApps/FreePlay?style=social" alt="FreePlay stars"></a>
+      &nbsp; <a href="https://freeplay.church">Website</a> · <a href="https://github.com/ChurchApps/ChurchAppsSupport/issues">Report an issue</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="110" align="center" valign="middle">
+      <a href="https://github.com/ChurchApps/WorshipCommons"><img width="72" alt="WorshipCommons logo" src="https://raw.githubusercontent.com/ChurchApps/WorshipCommons/main/public/WorshipCommons-logo.png"></a>
+    </td>
+    <td valign="middle">
+      <h3><a href="https://github.com/ChurchApps/WorshipCommons">WorshipCommons</a> — free worship songs, charts, and lyrics</h3>
+      A library of freely usable worship music, chord charts, and lyrics designed for churches to use without subscription barriers.<br>
+      <a href="https://github.com/ChurchApps/WorshipCommons/stargazers"><img src="https://img.shields.io/github/stars/ChurchApps/WorshipCommons?style=social" alt="WorshipCommons stars"></a>
+      &nbsp; <a href="https://worshipcommons.org">Website</a> · <a href="https://github.com/ChurchApps/WorshipCommons/issues">Report an issue</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="110" align="center" valign="middle">
+      <a href="https://github.com/ChurchApps/Chordo"><img width="72" alt="Chordo logo" src="https://raw.githubusercontent.com/ChurchApps/Chordo/main/public/icons/icon.svg"></a>
+    </td>
+    <td valign="middle">
+      <h3><a href="https://github.com/ChurchApps/Chordo">Chordo</a> — chord sheet manager app</h3>
+      An open-source chord sheet manager designed for worship leaders and musicians to easily organize, transpose, and view song chord charts.<br>
+      <a href="https://github.com/ChurchApps/Chordo/stargazers"><img src="https://img.shields.io/github/stars/ChurchApps/Chordo?style=social" alt="Chordo stars"></a>
+      &nbsp; <a href="https://chordo.org">Website</a> · <a href="https://github.com/ChurchApps/Chordo/issues">Report an issue</a>
+    </td>
+  </tr>
 </table>
 
 <sub>⭐ If one of these serves your church, a star helps other churches find it.</sub>
